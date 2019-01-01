@@ -10,7 +10,7 @@
       {
          "id": "0",
          "title": "Support us",
-         "package": "com.easyrom.gbago.gameboyemulator.proprolite",
+         "package": "com.myapk.packname",
          "desc": "support us",
          "image": "https://github.com/tukangpilem/GB4/raw/master/ads/fivestars.png",
          "icon": ""
@@ -18,7 +18,7 @@
       {
          "id": "1",
          "title": "support us",
-         "package": "com.easyrom.gbago.gameboyemulator.proprolite",
+         "package": "com.myapk.packname",
          "desc": "support us",
          "image": "https://github.com/tukangpilem/GB4/raw/master/ads/fivestars.png",
          "icon": ""
